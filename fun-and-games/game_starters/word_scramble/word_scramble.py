@@ -1,31 +1,19 @@
+#!/usr/bin/env python3
+
 # === 🎯 WORD SCRAMBLE GAME - PYTHON VERSION ===
-# 
-# == INSTRUCTIONS ==
-# Start by copying and pasting the following prompt (contained in quotes) into Continue's chat:
-# "Create a Python script for a word scramble game that:
+#
+# == GOAL ==
+# Create a Python script for a word scramble game that:
 # - Takes a word (like 'python') and scrambles the letters randomly using random.sample()
 # - Shows the scrambled word to the user
 # - Lets the user guess the original word
 # - Keeps asking until they get it right or type 'quit'
-# - Shows a celebration message when they win"
-# You can directly copy and paste the above into the chat interface in the left-hand sidebar.
-# After Continue creates your script, you can copy and paste the full script into this file above the commented instructions.
-
-# 🛠️ Once you have working code, try these Continue features:
-# - Highlight any section → "Add to Chat" → Ask how something works
-# - Highlight any section → "Add to Edit" → "add hints after wrong guesses"
-# - Highlight the entire script → "Add to Edit" → "Make this code enterprise-grade"
-# - Highlight complex sections → "Add to Edit" → "Write Comments for this Code for clarity"
+# - Shows a celebration message when they win
 
 # === 💡 OPTIONAL: Ideas to Enhance Your Game ===
-# Use these prompts to ask Continue's chat or edit feature to help you add to your game file:
+# Consider, once we know the basic game works, the following ideas:
 # - Create a list of 10+ words and use random.choice() to select one randomly each game
 # - Add a round counter and score tracker that plays 5 rounds and shows total correct/incorrect at the end
 # - Display hints after 3 wrong guesses (e.g., first letter, word category like "animal" or "programming language")
 # - Use ANSI escape codes or colorama library to show green text for correct answers and red text for wrong guesses
 # - Implement difficulty levels (easy=4-5 letters, medium=6-8 letters, hard=9+ letters) and let users choose at start
-
-
-
-
-
