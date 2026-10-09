@@ -17,3 +17,5 @@
 # - Display hints after 3 wrong guesses (e.g., first letter, word category like "animal" or "programming language")
 # - Use color codes to show green text for correct answers and red text for wrong guesses
 # - Implement difficulty levels (easy=4-5 letters, medium=6-8 letters, hard=9+ letters) and let users choose at start
+
+# CODE BELOW THIS LINE

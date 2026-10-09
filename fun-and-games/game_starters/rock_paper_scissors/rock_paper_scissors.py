@@ -16,3 +16,5 @@
 # - Add input validation to handle typos and invalid choices
 # - Create different celebration messages based on how the player wins (e.g., "Rock crushes scissors!")
 # - Implement difficulty levels (easy = random, medium = counters most common move, hard = pattern recognition)
+
+# CODE BELOW THIS LINE

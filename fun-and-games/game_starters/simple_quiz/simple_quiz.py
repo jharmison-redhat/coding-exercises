@@ -17,3 +17,5 @@
 # - Add a 10-second timer per question using the time module, mark as wrong if time runs out
 # - Organize questions by category (history, science, programming) and let users choose which to play
 # - Implement difficulty levels where easy/medium/hard questions are worth 1/2/3 points respectively
+
+# CODE BELOW THIS LINE

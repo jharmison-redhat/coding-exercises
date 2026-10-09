@@ -18,3 +18,5 @@
 # - Add a 10-second timer per question using the timeout command with read, mark as wrong if time runs out
 # - Organize questions by category (history, science, programming) arrays and let users choose which category to play
 # - Implement difficulty levels where easy/medium/hard questions are worth 1/2/3 points respectively using case statements
+
+# CODE BELOW THIS LINE
